@@ -16,6 +16,10 @@
   <a href="https://github.com/rimedag/creative-pressure/issues/new/choose">Report a bug</a>
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/timer.webp" width="820" alt="Creative Pressure ready to start a 30-minute session with Train Rain selected and an empty notes field">
+</p>
+
 ## What it does
 
 Creative Pressure is a small desktop ritual machine from NoirSonance for artists,
@@ -26,6 +30,10 @@ session. When it ends, save what happened.
 
 No account, no backend, no telemetry, no cloud sync and no internet connection
 required.
+
+<p align="center">
+  <img src="assets/screenshots/session-rage-mode.webp" width="820" alt="A running Creative Pressure session with Rage Mode enabled">
+</p>
 
 ## Features
 
